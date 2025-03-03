@@ -1,0 +1,1016 @@
+{
+    "dishes": [
+        {
+            "name": "Cheeseburger",
+            "healthier_alternative": "Grilled Turkey Burger",
+            "calories": 600,
+            "protein": 30,
+            "carbs": 45,
+            "fats": 35,
+            "ingredients": {
+                "original": {
+                    "Beef patty": "1 (150g)",
+                    "White bread bun": "1",
+                    "Cheddar cheese": "1 slice (28g)",
+                    "Mayonnaise": "1 tbsp (15g)",
+                    "Lettuce": "2 leaves",
+                    "Tomato": "2 slices"
+                },
+                "healthier": {
+                    "Grilled turkey patty": "1 (150g)",
+                    "Whole wheat bun": "1",
+                    "Low-fat cheddar cheese": "1 slice (28g)",
+                    "Avocado spread": "1 tbsp (15g)",
+                    "Lettuce": "2 leaves",
+                    "Tomato": "2 slices"
+                }
+            }
+        },
+        {
+            "name": "French Fries",
+            "healthier_alternative": "Baked Sweet Potato Fries",
+            "calories": 300,
+            "protein": 3,
+            "carbs": 40,
+            "fats": 15,
+            "ingredients": {
+                "original": {
+                    "Russet potatoes": "1 large (300g)",
+                    "Vegetable oil": "2 tbsp (30ml)",
+                    "Salt": "1/2 tsp"
+                },
+                "healthier": {
+                    "Sweet potatoes": "1 large (300g)",
+                    "Olive oil": "1 tbsp (15ml)",
+                    "Sea salt": "1/2 tsp"
+                }
+            }
+        },
+        {
+            "name": "Fried Chicken",
+            "healthier_alternative": "Air Fried Chicken",
+            "calories": 450,
+            "protein": 35,
+            "carbs": 20,
+            "fats": 20,
+            "ingredients": {
+                "original": {
+                    "Chicken breast": "1 piece (200g)",
+                    "All-purpose flour": "1/2 cup (60g)",
+                    "Vegetable oil": "2 tbsp (30ml)",
+                    "Salt": "1/2 tsp",
+                    "Pepper": "1/4 tsp"
+                },
+                "healthier": {
+                    "Air-fried chicken breast": "1 piece (200g)",
+                    "Almond flour": "1/2 cup (60g)",
+                    "Olive oil spray": "1 tsp",
+                    "Himalayan salt": "1/2 tsp",
+                    "Black pepper": "1/4 tsp"
+                }
+            }
+        },
+        {
+            "name": "Pizza",
+            "healthier_alternative": "Cauliflower Crust Pizza",
+            "calories": 700,
+            "protein": 25,
+            "carbs": 75,
+            "fats": 30,
+            "ingredients": {
+                "original": {
+                    "White flour crust": "1 (200g)",
+                    "Mozzarella cheese": "1 cup (120g)",
+                    "Pepperoni": "10 slices (30g)",
+                    "Tomato sauce": "1/2 cup (120ml)"
+                },
+                "healthier": {
+                    "Cauliflower crust": "1 (200g)",
+                    "Low-fat mozzarella": "1 cup (120g)",
+                    "Turkey pepperoni": "10 slices (30g)",
+                    "No-sugar-added tomato sauce": "1/2 cup (120ml)"
+                }
+            }
+        },
+        {
+            "name": "Dish 5",
+            "healthier_alternative": "Healthy Dish 5",
+            "calories": 325,
+            "protein": 15,
+            "carbs": 30,
+            "fats": 12,
+            "ingredients": {
+                "original": {
+                    "Ingredient 1": "50g",
+                    "Ingredient 2": "25g",
+                    "Ingredient 3": "10g"
+                },
+                "healthier": {
+                    "Healthy Ingredient 1": "40g",
+                    "Healthy Ingredient 2": "20g",
+                    "Healthy Ingredient 3": "7.5g"
+                }
+            }
+        },
+        {
+            "name": "Dish 6",
+            "healthier_alternative": "Healthy Dish 6",
+            "calories": 330,
+            "protein": 16,
+            "carbs": 32,
+            "fats": 13,
+            "ingredients": {
+                "original": {
+                    "Ingredient 1": "60g",
+                    "Ingredient 2": "30g",
+                    "Ingredient 3": "12g"
+                },
+                "healthier": {
+                    "Healthy Ingredient 1": "48g",
+                    "Healthy Ingredient 2": "24g",
+                    "Healthy Ingredient 3": "9.0g"
+                }
+            }
+        },
+        {
+            "name": "Dish 7",
+            "healthier_alternative": "Healthy Dish 7",
+            "calories": 335,
+            "protein": 17,
+            "carbs": 34,
+            "fats": 13,
+            "ingredients": {
+                "original": {
+                    "Ingredient 1": "70g",
+                    "Ingredient 2": "35g",
+                    "Ingredient 3": "14g"
+                },
+                "healthier": {
+                    "Healthy Ingredient 1": "56g",
+                    "Healthy Ingredient 2": "28g",
+                    "Healthy Ingredient 3": "10.5g"
+                }
+            }
+        },
+        {
+            "name": "Dish 8",
+            "healthier_alternative": "Healthy Dish 8",
+            "calories": 340,
+            "protein": 18,
+            "carbs": 36,
+            "fats": 14,
+            "ingredients": {
+                "original": {
+                    "Ingredient 1": "80g",
+                    "Ingredient 2": "40g",
+                    "Ingredient 3": "16g"
+                },
+                "healthier": {
+                    "Healthy Ingredient 1": "64g",
+                    "Healthy Ingredient 2": "32g",
+                    "Healthy Ingredient 3": "12.0g"
+                }
+            }
+        },
+        {
+            "name": "Dish 9",
+            "healthier_alternative": "Healthy Dish 9",
+            "calories": 345,
+            "protein": 19,
+            "carbs": 38,
+            "fats": 14,
+            "ingredients": {
+                "original": {
+                    "Ingredient 1": "90g",
+                    "Ingredient 2": "45g",
+                    "Ingredient 3": "18g"
+                },
+                "healthier": {
+                    "Healthy Ingredient 1": "72g",
+                    "Healthy Ingredient 2": "36g",
+                    "Healthy Ingredient 3": "13.5g"
+                }
+            }
+        },
+        {
+            "name": "Dish 10",
+            "healthier_alternative": "Healthy Dish 10",
+            "calories": 350,
+            "protein": 20,
+            "carbs": 40,
+            "fats": 15,
+            "ingredients": {
+                "original": {
+                    "Ingredient 1": "100g",
+                    "Ingredient 2": "50g",
+                    "Ingredient 3": "20g"
+                },
+                "healthier": {
+                    "Healthy Ingredient 1": "80g",
+                    "Healthy Ingredient 2": "40g",
+                    "Healthy Ingredient 3": "15.0g"
+                }
+            }
+        },
+        {
+            "name": "Dish 11",
+            "healthier_alternative": "Healthy Dish 11",
+            "calories": 355,
+            "protein": 21,
+            "carbs": 42,
+            "fats": 15,
+            "ingredients": {
+                "original": {
+                    "Ingredient 1": "110g",
+                    "Ingredient 2": "55g",
+                    "Ingredient 3": "22g"
+                },
+                "healthier": {
+                    "Healthy Ingredient 1": "88g",
+                    "Healthy Ingredient 2": "44g",
+                    "Healthy Ingredient 3": "16.5g"
+                }
+            }
+        },
+        {
+            "name": "Dish 12",
+            "healthier_alternative": "Healthy Dish 12",
+            "calories": 360,
+            "protein": 22,
+            "carbs": 44,
+            "fats": 16,
+            "ingredients": {
+                "original": {
+                    "Ingredient 1": "120g",
+                    "Ingredient 2": "60g",
+                    "Ingredient 3": "24g"
+                },
+                "healthier": {
+                    "Healthy Ingredient 1": "96g",
+                    "Healthy Ingredient 2": "48g",
+                    "Healthy Ingredient 3": "18.0g"
+                }
+            }
+        },
+        {
+            "name": "Dish 13",
+            "healthier_alternative": "Healthy Dish 13",
+            "calories": 365,
+            "protein": 23,
+            "carbs": 46,
+            "fats": 16,
+            "ingredients": {
+                "original": {
+                    "Ingredient 1": "130g",
+                    "Ingredient 2": "65g",
+                    "Ingredient 3": "26g"
+                },
+                "healthier": {
+                    "Healthy Ingredient 1": "104g",
+                    "Healthy Ingredient 2": "52g",
+                    "Healthy Ingredient 3": "19.5g"
+                }
+            }
+        },
+        {
+            "name": "Dish 14",
+            "healthier_alternative": "Healthy Dish 14",
+            "calories": 370,
+            "protein": 24,
+            "carbs": 48,
+            "fats": 17,
+            "ingredients": {
+                "original": {
+                    "Ingredient 1": "140g",
+                    "Ingredient 2": "70g",
+                    "Ingredient 3": "28g"
+                },
+                "healthier": {
+                    "Healthy Ingredient 1": "112g",
+                    "Healthy Ingredient 2": "56g",
+                    "Healthy Ingredient 3": "21.0g"
+                }
+            }
+        },
+        {
+            "name": "Dish 15",
+            "healthier_alternative": "Healthy Dish 15",
+            "calories": 375,
+            "protein": 25,
+            "carbs": 50,
+            "fats": 17,
+            "ingredients": {
+                "original": {
+                    "Ingredient 1": "150g",
+                    "Ingredient 2": "75g",
+                    "Ingredient 3": "30g"
+                },
+                "healthier": {
+                    "Healthy Ingredient 1": "120g",
+                    "Healthy Ingredient 2": "60g",
+                    "Healthy Ingredient 3": "22.5g"
+                }
+            }
+        },
+        {
+            "name": "Dish 16",
+            "healthier_alternative": "Healthy Dish 16",
+            "calories": 380,
+            "protein": 26,
+            "carbs": 52,
+            "fats": 18,
+            "ingredients": {
+                "original": {
+                    "Ingredient 1": "160g",
+                    "Ingredient 2": "80g",
+                    "Ingredient 3": "32g"
+                },
+                "healthier": {
+                    "Healthy Ingredient 1": "128g",
+                    "Healthy Ingredient 2": "64g",
+                    "Healthy Ingredient 3": "24.0g"
+                }
+            }
+        },
+        {
+            "name": "Dish 17",
+            "healthier_alternative": "Healthy Dish 17",
+            "calories": 385,
+            "protein": 27,
+            "carbs": 54,
+            "fats": 18,
+            "ingredients": {
+                "original": {
+                    "Ingredient 1": "170g",
+                    "Ingredient 2": "85g",
+                    "Ingredient 3": "34g"
+                },
+                "healthier": {
+                    "Healthy Ingredient 1": "136g",
+                    "Healthy Ingredient 2": "68g",
+                    "Healthy Ingredient 3": "25.5g"
+                }
+            }
+        },
+        {
+            "name": "Dish 18",
+            "healthier_alternative": "Healthy Dish 18",
+            "calories": 390,
+            "protein": 28,
+            "carbs": 56,
+            "fats": 19,
+            "ingredients": {
+                "original": {
+                    "Ingredient 1": "180g",
+                    "Ingredient 2": "90g",
+                    "Ingredient 3": "36g"
+                },
+                "healthier": {
+                    "Healthy Ingredient 1": "144g",
+                    "Healthy Ingredient 2": "72g",
+                    "Healthy Ingredient 3": "27.0g"
+                }
+            }
+        },
+        {
+            "name": "Dish 19",
+            "healthier_alternative": "Healthy Dish 19",
+            "calories": 395,
+            "protein": 29,
+            "carbs": 58,
+            "fats": 19,
+            "ingredients": {
+                "original": {
+                    "Ingredient 1": "190g",
+                    "Ingredient 2": "95g",
+                    "Ingredient 3": "38g"
+                },
+                "healthier": {
+                    "Healthy Ingredient 1": "152g",
+                    "Healthy Ingredient 2": "76g",
+                    "Healthy Ingredient 3": "28.5g"
+                }
+            }
+        },
+        {
+            "name": "Dish 20",
+            "healthier_alternative": "Healthy Dish 20",
+            "calories": 400,
+            "protein": 30,
+            "carbs": 60,
+            "fats": 20,
+            "ingredients": {
+                "original": {
+                    "Ingredient 1": "200g",
+                    "Ingredient 2": "100g",
+                    "Ingredient 3": "40g"
+                },
+                "healthier": {
+                    "Healthy Ingredient 1": "160g",
+                    "Healthy Ingredient 2": "80g",
+                    "Healthy Ingredient 3": "30.0g"
+                }
+            }
+        },
+        {
+            "name": "Dish 21",
+            "healthier_alternative": "Healthy Dish 21",
+            "calories": 405,
+            "protein": 31,
+            "carbs": 62,
+            "fats": 20,
+            "ingredients": {
+                "original": {
+                    "Ingredient 1": "210g",
+                    "Ingredient 2": "105g",
+                    "Ingredient 3": "42g"
+                },
+                "healthier": {
+                    "Healthy Ingredient 1": "168g",
+                    "Healthy Ingredient 2": "84g",
+                    "Healthy Ingredient 3": "31.5g"
+                }
+            }
+        },
+        {
+            "name": "Dish 22",
+            "healthier_alternative": "Healthy Dish 22",
+            "calories": 410,
+            "protein": 32,
+            "carbs": 64,
+            "fats": 21,
+            "ingredients": {
+                "original": {
+                    "Ingredient 1": "220g",
+                    "Ingredient 2": "110g",
+                    "Ingredient 3": "44g"
+                },
+                "healthier": {
+                    "Healthy Ingredient 1": "176g",
+                    "Healthy Ingredient 2": "88g",
+                    "Healthy Ingredient 3": "33.0g"
+                }
+            }
+        },
+        {
+            "name": "Dish 23",
+            "healthier_alternative": "Healthy Dish 23",
+            "calories": 415,
+            "protein": 33,
+            "carbs": 66,
+            "fats": 21,
+            "ingredients": {
+                "original": {
+                    "Ingredient 1": "230g",
+                    "Ingredient 2": "115g",
+                    "Ingredient 3": "46g"
+                },
+                "healthier": {
+                    "Healthy Ingredient 1": "184g",
+                    "Healthy Ingredient 2": "92g",
+                    "Healthy Ingredient 3": "34.5g"
+                }
+            }
+        },
+        {
+            "name": "Dish 24",
+            "healthier_alternative": "Healthy Dish 24",
+            "calories": 420,
+            "protein": 34,
+            "carbs": 68,
+            "fats": 22,
+            "ingredients": {
+                "original": {
+                    "Ingredient 1": "240g",
+                    "Ingredient 2": "120g",
+                    "Ingredient 3": "48g"
+                },
+                "healthier": {
+                    "Healthy Ingredient 1": "192g",
+                    "Healthy Ingredient 2": "96g",
+                    "Healthy Ingredient 3": "36.0g"
+                }
+            }
+        },
+        {
+            "name": "Dish 25",
+            "healthier_alternative": "Healthy Dish 25",
+            "calories": 425,
+            "protein": 35,
+            "carbs": 70,
+            "fats": 22,
+            "ingredients": {
+                "original": {
+                    "Ingredient 1": "250g",
+                    "Ingredient 2": "125g",
+                    "Ingredient 3": "50g"
+                },
+                "healthier": {
+                    "Healthy Ingredient 1": "200g",
+                    "Healthy Ingredient 2": "100g",
+                    "Healthy Ingredient 3": "37.5g"
+                }
+            }
+        },
+        {
+            "name": "Dish 26",
+            "healthier_alternative": "Healthy Dish 26",
+            "calories": 430,
+            "protein": 36,
+            "carbs": 72,
+            "fats": 23,
+            "ingredients": {
+                "original": {
+                    "Ingredient 1": "260g",
+                    "Ingredient 2": "130g",
+                    "Ingredient 3": "52g"
+                },
+                "healthier": {
+                    "Healthy Ingredient 1": "208g",
+                    "Healthy Ingredient 2": "104g",
+                    "Healthy Ingredient 3": "39.0g"
+                }
+            }
+        },
+        {
+            "name": "Dish 27",
+            "healthier_alternative": "Healthy Dish 27",
+            "calories": 435,
+            "protein": 37,
+            "carbs": 74,
+            "fats": 23,
+            "ingredients": {
+                "original": {
+                    "Ingredient 1": "270g",
+                    "Ingredient 2": "135g",
+                    "Ingredient 3": "54g"
+                },
+                "healthier": {
+                    "Healthy Ingredient 1": "216g",
+                    "Healthy Ingredient 2": "108g",
+                    "Healthy Ingredient 3": "40.5g"
+                }
+            }
+        },
+        {
+            "name": "Dish 28",
+            "healthier_alternative": "Healthy Dish 28",
+            "calories": 440,
+            "protein": 38,
+            "carbs": 76,
+            "fats": 24,
+            "ingredients": {
+                "original": {
+                    "Ingredient 1": "280g",
+                    "Ingredient 2": "140g",
+                    "Ingredient 3": "56g"
+                },
+                "healthier": {
+                    "Healthy Ingredient 1": "224g",
+                    "Healthy Ingredient 2": "112g",
+                    "Healthy Ingredient 3": "42.0g"
+                }
+            }
+        },
+        {
+            "name": "Dish 29",
+            "healthier_alternative": "Healthy Dish 29",
+            "calories": 445,
+            "protein": 39,
+            "carbs": 78,
+            "fats": 24,
+            "ingredients": {
+                "original": {
+                    "Ingredient 1": "290g",
+                    "Ingredient 2": "145g",
+                    "Ingredient 3": "58g"
+                },
+                "healthier": {
+                    "Healthy Ingredient 1": "232g",
+                    "Healthy Ingredient 2": "116g",
+                    "Healthy Ingredient 3": "43.5g"
+                }
+            }
+        },
+        {
+            "name": "Dish 30",
+            "healthier_alternative": "Healthy Dish 30",
+            "calories": 450,
+            "protein": 40,
+            "carbs": 80,
+            "fats": 25,
+            "ingredients": {
+                "original": {
+                    "Ingredient 1": "300g",
+                    "Ingredient 2": "150g",
+                    "Ingredient 3": "60g"
+                },
+                "healthier": {
+                    "Healthy Ingredient 1": "240g",
+                    "Healthy Ingredient 2": "120g",
+                    "Healthy Ingredient 3": "45.0g"
+                }
+            }
+        },
+        {
+            "name": "Dish 31",
+            "healthier_alternative": "Healthy Dish 31",
+            "calories": 455,
+            "protein": 41,
+            "carbs": 82,
+            "fats": 25,
+            "ingredients": {
+                "original": {
+                    "Ingredient 1": "310g",
+                    "Ingredient 2": "155g",
+                    "Ingredient 3": "62g"
+                },
+                "healthier": {
+                    "Healthy Ingredient 1": "248g",
+                    "Healthy Ingredient 2": "124g",
+                    "Healthy Ingredient 3": "46.5g"
+                }
+            }
+        },
+        {
+            "name": "Dish 32",
+            "healthier_alternative": "Healthy Dish 32",
+            "calories": 460,
+            "protein": 42,
+            "carbs": 84,
+            "fats": 26,
+            "ingredients": {
+                "original": {
+                    "Ingredient 1": "320g",
+                    "Ingredient 2": "160g",
+                    "Ingredient 3": "64g"
+                },
+                "healthier": {
+                    "Healthy Ingredient 1": "256g",
+                    "Healthy Ingredient 2": "128g",
+                    "Healthy Ingredient 3": "48.0g"
+                }
+            }
+        },
+        {
+            "name": "Dish 33",
+            "healthier_alternative": "Healthy Dish 33",
+            "calories": 465,
+            "protein": 43,
+            "carbs": 86,
+            "fats": 26,
+            "ingredients": {
+                "original": {
+                    "Ingredient 1": "330g",
+                    "Ingredient 2": "165g",
+                    "Ingredient 3": "66g"
+                },
+                "healthier": {
+                    "Healthy Ingredient 1": "264g",
+                    "Healthy Ingredient 2": "132g",
+                    "Healthy Ingredient 3": "49.5g"
+                }
+            }
+        },
+        {
+            "name": "Dish 34",
+            "healthier_alternative": "Healthy Dish 34",
+            "calories": 470,
+            "protein": 44,
+            "carbs": 88,
+            "fats": 27,
+            "ingredients": {
+                "original": {
+                    "Ingredient 1": "340g",
+                    "Ingredient 2": "170g",
+                    "Ingredient 3": "68g"
+                },
+                "healthier": {
+                    "Healthy Ingredient 1": "272g",
+                    "Healthy Ingredient 2": "136g",
+                    "Healthy Ingredient 3": "51.0g"
+                }
+            }
+        },
+        {
+            "name": "Dish 35",
+            "healthier_alternative": "Healthy Dish 35",
+            "calories": 475,
+            "protein": 45,
+            "carbs": 90,
+            "fats": 27,
+            "ingredients": {
+                "original": {
+                    "Ingredient 1": "350g",
+                    "Ingredient 2": "175g",
+                    "Ingredient 3": "70g"
+                },
+                "healthier": {
+                    "Healthy Ingredient 1": "280g",
+                    "Healthy Ingredient 2": "140g",
+                    "Healthy Ingredient 3": "52.5g"
+                }
+            }
+        },
+        {
+            "name": "Dish 36",
+            "healthier_alternative": "Healthy Dish 36",
+            "calories": 480,
+            "protein": 46,
+            "carbs": 92,
+            "fats": 28,
+            "ingredients": {
+                "original": {
+                    "Ingredient 1": "360g",
+                    "Ingredient 2": "180g",
+                    "Ingredient 3": "72g"
+                },
+                "healthier": {
+                    "Healthy Ingredient 1": "288g",
+                    "Healthy Ingredient 2": "144g",
+                    "Healthy Ingredient 3": "54.0g"
+                }
+            }
+        },
+        {
+            "name": "Dish 37",
+            "healthier_alternative": "Healthy Dish 37",
+            "calories": 485,
+            "protein": 47,
+            "carbs": 94,
+            "fats": 28,
+            "ingredients": {
+                "original": {
+                    "Ingredient 1": "370g",
+                    "Ingredient 2": "185g",
+                    "Ingredient 3": "74g"
+                },
+                "healthier": {
+                    "Healthy Ingredient 1": "296g",
+                    "Healthy Ingredient 2": "148g",
+                    "Healthy Ingredient 3": "55.5g"
+                }
+            }
+        },
+        {
+            "name": "Dish 38",
+            "healthier_alternative": "Healthy Dish 38",
+            "calories": 490,
+            "protein": 48,
+            "carbs": 96,
+            "fats": 29,
+            "ingredients": {
+                "original": {
+                    "Ingredient 1": "380g",
+                    "Ingredient 2": "190g",
+                    "Ingredient 3": "76g"
+                },
+                "healthier": {
+                    "Healthy Ingredient 1": "304g",
+                    "Healthy Ingredient 2": "152g",
+                    "Healthy Ingredient 3": "57.0g"
+                }
+            }
+        },
+        {
+            "name": "Dish 39",
+            "healthier_alternative": "Healthy Dish 39",
+            "calories": 495,
+            "protein": 49,
+            "carbs": 98,
+            "fats": 29,
+            "ingredients": {
+                "original": {
+                    "Ingredient 1": "390g",
+                    "Ingredient 2": "195g",
+                    "Ingredient 3": "78g"
+                },
+                "healthier": {
+                    "Healthy Ingredient 1": "312g",
+                    "Healthy Ingredient 2": "156g",
+                    "Healthy Ingredient 3": "58.5g"
+                }
+            }
+        },
+        {
+            "name": "Dish 40",
+            "healthier_alternative": "Healthy Dish 40",
+            "calories": 500,
+            "protein": 50,
+            "carbs": 100,
+            "fats": 30,
+            "ingredients": {
+                "original": {
+                    "Ingredient 1": "400g",
+                    "Ingredient 2": "200g",
+                    "Ingredient 3": "80g"
+                },
+                "healthier": {
+                    "Healthy Ingredient 1": "320g",
+                    "Healthy Ingredient 2": "160g",
+                    "Healthy Ingredient 3": "60.0g"
+                }
+            }
+        },
+        {
+            "name": "Dish 41",
+            "healthier_alternative": "Healthy Dish 41",
+            "calories": 505,
+            "protein": 51,
+            "carbs": 102,
+            "fats": 30,
+            "ingredients": {
+                "original": {
+                    "Ingredient 1": "410g",
+                    "Ingredient 2": "205g",
+                    "Ingredient 3": "82g"
+                },
+                "healthier": {
+                    "Healthy Ingredient 1": "328g",
+                    "Healthy Ingredient 2": "164g",
+                    "Healthy Ingredient 3": "61.5g"
+                }
+            }
+        },
+        {
+            "name": "Dish 42",
+            "healthier_alternative": "Healthy Dish 42",
+            "calories": 510,
+            "protein": 52,
+            "carbs": 104,
+            "fats": 31,
+            "ingredients": {
+                "original": {
+                    "Ingredient 1": "420g",
+                    "Ingredient 2": "210g",
+                    "Ingredient 3": "84g"
+                },
+                "healthier": {
+                    "Healthy Ingredient 1": "336g",
+                    "Healthy Ingredient 2": "168g",
+                    "Healthy Ingredient 3": "63.0g"
+                }
+            }
+        },
+        {
+            "name": "Dish 43",
+            "healthier_alternative": "Healthy Dish 43",
+            "calories": 515,
+            "protein": 53,
+            "carbs": 106,
+            "fats": 31,
+            "ingredients": {
+                "original": {
+                    "Ingredient 1": "430g",
+                    "Ingredient 2": "215g",
+                    "Ingredient 3": "86g"
+                },
+                "healthier": {
+                    "Healthy Ingredient 1": "344g",
+                    "Healthy Ingredient 2": "172g",
+                    "Healthy Ingredient 3": "64.5g"
+                }
+            }
+        },
+        {
+            "name": "Dish 44",
+            "healthier_alternative": "Healthy Dish 44",
+            "calories": 520,
+            "protein": 54,
+            "carbs": 108,
+            "fats": 32,
+            "ingredients": {
+                "original": {
+                    "Ingredient 1": "440g",
+                    "Ingredient 2": "220g",
+                    "Ingredient 3": "88g"
+                },
+                "healthier": {
+                    "Healthy Ingredient 1": "352g",
+                    "Healthy Ingredient 2": "176g",
+                    "Healthy Ingredient 3": "66.0g"
+                }
+            }
+        },
+        {
+            "name": "Dish 45",
+            "healthier_alternative": "Healthy Dish 45",
+            "calories": 525,
+            "protein": 55,
+            "carbs": 110,
+            "fats": 32,
+            "ingredients": {
+                "original": {
+                    "Ingredient 1": "450g",
+                    "Ingredient 2": "225g",
+                    "Ingredient 3": "90g"
+                },
+                "healthier": {
+                    "Healthy Ingredient 1": "360g",
+                    "Healthy Ingredient 2": "180g",
+                    "Healthy Ingredient 3": "67.5g"
+                }
+            }
+        },
+        {
+            "name": "Dish 46",
+            "healthier_alternative": "Healthy Dish 46",
+            "calories": 530,
+            "protein": 56,
+            "carbs": 112,
+            "fats": 33,
+            "ingredients": {
+                "original": {
+                    "Ingredient 1": "460g",
+                    "Ingredient 2": "230g",
+                    "Ingredient 3": "92g"
+                },
+                "healthier": {
+                    "Healthy Ingredient 1": "368g",
+                    "Healthy Ingredient 2": "184g",
+                    "Healthy Ingredient 3": "69.0g"
+                }
+            }
+        },
+        {
+            "name": "Dish 47",
+            "healthier_alternative": "Healthy Dish 47",
+            "calories": 535,
+            "protein": 57,
+            "carbs": 114,
+            "fats": 33,
+            "ingredients": {
+                "original": {
+                    "Ingredient 1": "470g",
+                    "Ingredient 2": "235g",
+                    "Ingredient 3": "94g"
+                },
+                "healthier": {
+                    "Healthy Ingredient 1": "376g",
+                    "Healthy Ingredient 2": "188g",
+                    "Healthy Ingredient 3": "70.5g"
+                }
+            }
+        },
+        {
+            "name": "Dish 48",
+            "healthier_alternative": "Healthy Dish 48",
+            "calories": 540,
+            "protein": 58,
+            "carbs": 116,
+            "fats": 34,
+            "ingredients": {
+                "original": {
+                    "Ingredient 1": "480g",
+                    "Ingredient 2": "240g",
+                    "Ingredient 3": "96g"
+                },
+                "healthier": {
+                    "Healthy Ingredient 1": "384g",
+                    "Healthy Ingredient 2": "192g",
+                    "Healthy Ingredient 3": "72.0g"
+                }
+            }
+        },
+        {
+            "name": "Dish 49",
+            "healthier_alternative": "Healthy Dish 49",
+            "calories": 545,
+            "protein": 59,
+            "carbs": 118,
+            "fats": 34,
+            "ingredients": {
+                "original": {
+                    "Ingredient 1": "490g",
+                    "Ingredient 2": "245g",
+                    "Ingredient 3": "98g"
+                },
+                "healthier": {
+                    "Healthy Ingredient 1": "392g",
+                    "Healthy Ingredient 2": "196g",
+                    "Healthy Ingredient 3": "73.5g"
+                }
+            }
+        },
+        {
+            "name": "Dish 50",
+            "healthier_alternative": "Healthy Dish 50",
+            "calories": 550,
+            "protein": 60,
+            "carbs": 120,
+            "fats": 35,
+            "ingredients": {
+                "original": {
+                    "Ingredient 1": "500g",
+                    "Ingredient 2": "250g",
+                    "Ingredient 3": "100g"
+                },
+                "healthier": {
+                    "Healthy Ingredient 1": "400g",
+                    "Healthy Ingredient 2": "200g",
+                    "Healthy Ingredient 3": "75.0g"
+                }
+            }
+        }
+    ]
+}
