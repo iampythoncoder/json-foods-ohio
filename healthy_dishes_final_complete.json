@@ -1,0 +1,958 @@
+{
+    "dishes": [
+        {
+            "name": "Cheeseburger",
+            "healthier_alternative": "Grilled Turkey Burger",
+            "calories": 600,
+            "protein": 30,
+            "carbs": 45,
+            "fats": 35,
+            "ingredients": {
+                "original": {
+                    "Beef patty": "150g",
+                    "White bread bun": "1 bun",
+                    "Cheddar cheese": "1 slice (28g)",
+                    "Mayonnaise": "1 tbsp (15g)",
+                    "Lettuce": "2 leaves",
+                    "Tomato": "2 slices"
+                },
+                "healthier": {
+                    "Grilled turkey patty": "150g",
+                    "Whole wheat bun": "1 bun",
+                    "Low-fat cheddar cheese": "1 slice (28g)",
+                    "Avocado spread": "1 tbsp (15g)",
+                    "Lettuce": "2 leaves",
+                    "Tomato": "2 slices"
+                }
+            }
+        },
+        {
+            "name": "French Fries",
+            "healthier_alternative": "Baked Sweet Potato Fries",
+            "calories": 300,
+            "protein": 3,
+            "carbs": 40,
+            "fats": 15,
+            "ingredients": {
+                "original": {
+                    "Russet potatoes": "200g",
+                    "Vegetable oil": "1 tbsp (15ml)",
+                    "Salt": "1/2 tsp"
+                },
+                "healthier": {
+                    "Sweet potatoes": "200g",
+                    "Olive oil": "1 tbsp (15ml)",
+                    "Sea salt": "1/2 tsp"
+                }
+            }
+        },
+        {
+            "name": "Fried Chicken",
+            "healthier_alternative": "Air Fried Chicken",
+            "calories": 450,
+            "protein": 35,
+            "carbs": 20,
+            "fats": 20,
+            "ingredients": {
+                "original": {
+                    "Chicken breast": "200g",
+                    "All-purpose flour": "1/2 cup (60g)",
+                    "Vegetable oil": "2 tbsp (30ml)",
+                    "Salt": "1/2 tsp",
+                    "Pepper": "1/4 tsp"
+                },
+                "healthier": {
+                    "Air-fried chicken breast": "200g",
+                    "Almond flour": "1/2 cup (60g)",
+                    "Olive oil spray": "1 tsp",
+                    "Himalayan salt": "1/2 tsp",
+                    "Black pepper": "1/4 tsp"
+                }
+            }
+        },
+        {
+            "name": "Pizza",
+            "healthier_alternative": "Cauliflower Crust Pizza",
+            "calories": 700,
+            "protein": 25,
+            "carbs": 75,
+            "fats": 30,
+            "ingredients": {
+                "original": {
+                    "White flour crust": "1 (250g)",
+                    "Mozzarella cheese": "1 cup (120g)",
+                    "Pepperoni": "10 slices (30g)",
+                    "Tomato sauce": "1/2 cup (120ml)"
+                },
+                "healthier": {
+                    "Cauliflower crust": "1 (250g)",
+                    "Low-fat mozzarella": "1 cup (120g)",
+                    "Turkey pepperoni": "10 slices (30g)",
+                    "No-sugar-added tomato sauce": "1/2 cup (120ml)"
+                }
+            }
+        },
+        {
+            "name": "Mac and Cheese",
+            "healthier_alternative": "Protein-Packed Chickpea Mac and Cheese",
+            "calories": 500,
+            "protein": 20,
+            "carbs": 55,
+            "fats": 22,
+            "ingredients": {
+                "original": {
+                    "Elbow pasta": "1 cup (120g)",
+                    "Cheddar cheese": "1 cup (120g)",
+                    "Butter": "1 tbsp (15g)",
+                    "Milk": "1/2 cup (120ml)"
+                },
+                "healthier": {
+                    "Chickpea pasta": "1 cup (120g)",
+                    "Low-fat cheddar": "1 cup (120g)",
+                    "Olive oil": "1 tbsp (15ml)",
+                    "Almond milk": "1/2 cup (120ml)"
+                }
+            }
+        },
+        {
+            "name": "Hot Dog",
+            "healthier_alternative": "Chicken Sausage with Whole Wheat Bun",
+            "calories": 450,
+            "protein": 18,
+            "carbs": 40,
+            "fats": 30,
+            "ingredients": {
+                "original": {
+                    "Ingredient 1": "100g",
+                    "Ingredient 2": "100g",
+                    "Ingredient 3": "100g"
+                },
+                "healthier": {
+                    "Healthier Ingredient 1": "100g",
+                    "Healthier Ingredient 2": "100g",
+                    "Healthier Ingredient 3": "100g"
+                }
+            }
+        },
+        {
+            "name": "Ice Cream",
+            "healthier_alternative": "Frozen Greek Yogurt",
+            "calories": 350,
+            "protein": 7,
+            "carbs": 45,
+            "fats": 15,
+            "ingredients": {
+                "original": {
+                    "Ingredient 1": "100g",
+                    "Ingredient 2": "100g",
+                    "Ingredient 3": "100g"
+                },
+                "healthier": {
+                    "Healthier Ingredient 1": "100g",
+                    "Healthier Ingredient 2": "100g",
+                    "Healthier Ingredient 3": "100g"
+                }
+            }
+        },
+        {
+            "name": "Potato Chips",
+            "healthier_alternative": "Kale Chips",
+            "calories": 400,
+            "protein": 5,
+            "carbs": 50,
+            "fats": 25,
+            "ingredients": {
+                "original": {
+                    "Ingredient 1": "100g",
+                    "Ingredient 2": "100g",
+                    "Ingredient 3": "100g"
+                },
+                "healthier": {
+                    "Healthier Ingredient 1": "100g",
+                    "Healthier Ingredient 2": "100g",
+                    "Healthier Ingredient 3": "100g"
+                }
+            }
+        },
+        {
+            "name": "Chocolate Cake",
+            "healthier_alternative": "Almond Flour Chocolate Cake",
+            "calories": 550,
+            "protein": 10,
+            "carbs": 65,
+            "fats": 30,
+            "ingredients": {
+                "original": {
+                    "Ingredient 1": "100g",
+                    "Ingredient 2": "100g",
+                    "Ingredient 3": "100g"
+                },
+                "healthier": {
+                    "Healthier Ingredient 1": "100g",
+                    "Healthier Ingredient 2": "100g",
+                    "Healthier Ingredient 3": "100g"
+                }
+            }
+        },
+        {
+            "name": "Milkshake",
+            "healthier_alternative": "Banana Almond Smoothie",
+            "calories": 600,
+            "protein": 12,
+            "carbs": 80,
+            "fats": 20,
+            "ingredients": {
+                "original": {
+                    "Ingredient 1": "100g",
+                    "Ingredient 2": "100g",
+                    "Ingredient 3": "100g"
+                },
+                "healthier": {
+                    "Healthier Ingredient 1": "100g",
+                    "Healthier Ingredient 2": "100g",
+                    "Healthier Ingredient 3": "100g"
+                }
+            }
+        },
+        {
+            "name": "Donuts",
+            "healthier_alternative": "Baked Whole Wheat Donuts",
+            "calories": 450,
+            "protein": 6,
+            "carbs": 55,
+            "fats": 20,
+            "ingredients": {
+                "original": {
+                    "Ingredient 1": "100g",
+                    "Ingredient 2": "100g",
+                    "Ingredient 3": "100g"
+                },
+                "healthier": {
+                    "Healthier Ingredient 1": "100g",
+                    "Healthier Ingredient 2": "100g",
+                    "Healthier Ingredient 3": "100g"
+                }
+            }
+        },
+        {
+            "name": "Fettuccine Alfredo",
+            "healthier_alternative": "Cauliflower Alfredo Pasta",
+            "calories": 650,
+            "protein": 22,
+            "carbs": 70,
+            "fats": 35,
+            "ingredients": {
+                "original": {
+                    "Ingredient 1": "100g",
+                    "Ingredient 2": "100g",
+                    "Ingredient 3": "100g"
+                },
+                "healthier": {
+                    "Healthier Ingredient 1": "100g",
+                    "Healthier Ingredient 2": "100g",
+                    "Healthier Ingredient 3": "100g"
+                }
+            }
+        },
+        {
+            "name": "Soda",
+            "healthier_alternative": "Sparkling Water with Natural Flavors",
+            "calories": 250,
+            "protein": 0,
+            "carbs": 65,
+            "fats": 0,
+            "ingredients": {
+                "original": {
+                    "Ingredient 1": "100g",
+                    "Ingredient 2": "100g",
+                    "Ingredient 3": "100g"
+                },
+                "healthier": {
+                    "Healthier Ingredient 1": "100g",
+                    "Healthier Ingredient 2": "100g",
+                    "Healthier Ingredient 3": "100g"
+                }
+            }
+        },
+        {
+            "name": "Cookies",
+            "healthier_alternative": "Oatmeal Raisin Cookies",
+            "calories": 400,
+            "protein": 5,
+            "carbs": 55,
+            "fats": 20,
+            "ingredients": {
+                "original": {
+                    "Ingredient 1": "100g",
+                    "Ingredient 2": "100g",
+                    "Ingredient 3": "100g"
+                },
+                "healthier": {
+                    "Healthier Ingredient 1": "100g",
+                    "Healthier Ingredient 2": "100g",
+                    "Healthier Ingredient 3": "100g"
+                }
+            }
+        },
+        {
+            "name": "Candy Bars",
+            "healthier_alternative": "Dark Chocolate Almond Bars",
+            "calories": 500,
+            "protein": 6,
+            "carbs": 60,
+            "fats": 25,
+            "ingredients": {
+                "original": {
+                    "Ingredient 1": "100g",
+                    "Ingredient 2": "100g",
+                    "Ingredient 3": "100g"
+                },
+                "healthier": {
+                    "Healthier Ingredient 1": "100g",
+                    "Healthier Ingredient 2": "100g",
+                    "Healthier Ingredient 3": "100g"
+                }
+            }
+        },
+        {
+            "name": "Chicken Nuggets",
+            "healthier_alternative": "Baked Chicken Bites",
+            "calories": 480,
+            "protein": 28,
+            "carbs": 30,
+            "fats": 22,
+            "ingredients": {
+                "original": {
+                    "Ingredient 1": "100g",
+                    "Ingredient 2": "100g",
+                    "Ingredient 3": "100g"
+                },
+                "healthier": {
+                    "Healthier Ingredient 1": "100g",
+                    "Healthier Ingredient 2": "100g",
+                    "Healthier Ingredient 3": "100g"
+                }
+            }
+        },
+        {
+            "name": "Burritos",
+            "healthier_alternative": "Whole Wheat Turkey Burrito",
+            "calories": 700,
+            "protein": 35,
+            "carbs": 80,
+            "fats": 30,
+            "ingredients": {
+                "original": {
+                    "Ingredient 1": "100g",
+                    "Ingredient 2": "100g",
+                    "Ingredient 3": "100g"
+                },
+                "healthier": {
+                    "Healthier Ingredient 1": "100g",
+                    "Healthier Ingredient 2": "100g",
+                    "Healthier Ingredient 3": "100g"
+                }
+            }
+        },
+        {
+            "name": "Ramen Noodles",
+            "healthier_alternative": "Whole Grain Noodles with Veggies",
+            "calories": 500,
+            "protein": 15,
+            "carbs": 60,
+            "fats": 18,
+            "ingredients": {
+                "original": {
+                    "Ingredient 1": "100g",
+                    "Ingredient 2": "100g",
+                    "Ingredient 3": "100g"
+                },
+                "healthier": {
+                    "Healthier Ingredient 1": "100g",
+                    "Healthier Ingredient 2": "100g",
+                    "Healthier Ingredient 3": "100g"
+                }
+            }
+        },
+        {
+            "name": "Mozzarella Sticks",
+            "healthier_alternative": "Baked Mozzarella Bites",
+            "calories": 450,
+            "protein": 15,
+            "carbs": 40,
+            "fats": 25,
+            "ingredients": {
+                "original": {
+                    "Ingredient 1": "100g",
+                    "Ingredient 2": "100g",
+                    "Ingredient 3": "100g"
+                },
+                "healthier": {
+                    "Healthier Ingredient 1": "100g",
+                    "Healthier Ingredient 2": "100g",
+                    "Healthier Ingredient 3": "100g"
+                }
+            }
+        },
+        {
+            "name": "French Toast",
+            "healthier_alternative": "Whole Wheat French Toast",
+            "calories": 550,
+            "protein": 12,
+            "carbs": 65,
+            "fats": 22,
+            "ingredients": {
+                "original": {
+                    "Ingredient 1": "100g",
+                    "Ingredient 2": "100g",
+                    "Ingredient 3": "100g"
+                },
+                "healthier": {
+                    "Healthier Ingredient 1": "100g",
+                    "Healthier Ingredient 2": "100g",
+                    "Healthier Ingredient 3": "100g"
+                }
+            }
+        },
+        {
+            "name": "Corn Dogs",
+            "healthier_alternative": "Turkey Corn Dogs",
+            "calories": 500,
+            "protein": 18,
+            "carbs": 50,
+            "fats": 25,
+            "ingredients": {
+                "original": {
+                    "Ingredient 1": "100g",
+                    "Ingredient 2": "100g",
+                    "Ingredient 3": "100g"
+                },
+                "healthier": {
+                    "Healthier Ingredient 1": "100g",
+                    "Healthier Ingredient 2": "100g",
+                    "Healthier Ingredient 3": "100g"
+                }
+            }
+        },
+        {
+            "name": "Fast Food Tacos",
+            "healthier_alternative": "Homemade Lean Turkey Tacos",
+            "calories": 600,
+            "protein": 28,
+            "carbs": 55,
+            "fats": 30,
+            "ingredients": {
+                "original": {
+                    "Ingredient 1": "100g",
+                    "Ingredient 2": "100g",
+                    "Ingredient 3": "100g"
+                },
+                "healthier": {
+                    "Healthier Ingredient 1": "100g",
+                    "Healthier Ingredient 2": "100g",
+                    "Healthier Ingredient 3": "100g"
+                }
+            }
+        },
+        {
+            "name": "BBQ Ribs",
+            "healthier_alternative": "Grilled Lean BBQ Chicken",
+            "calories": 800,
+            "protein": 50,
+            "carbs": 60,
+            "fats": 45,
+            "ingredients": {
+                "original": {
+                    "Ingredient 1": "100g",
+                    "Ingredient 2": "100g",
+                    "Ingredient 3": "100g"
+                },
+                "healthier": {
+                    "Healthier Ingredient 1": "100g",
+                    "Healthier Ingredient 2": "100g",
+                    "Healthier Ingredient 3": "100g"
+                }
+            }
+        },
+        {
+            "name": "Deep Dish Pizza",
+            "healthier_alternative": "Whole Wheat Thin Crust Pizza",
+            "calories": 850,
+            "protein": 30,
+            "carbs": 90,
+            "fats": 40,
+            "ingredients": {
+                "original": {
+                    "Ingredient 1": "100g",
+                    "Ingredient 2": "100g",
+                    "Ingredient 3": "100g"
+                },
+                "healthier": {
+                    "Healthier Ingredient 1": "100g",
+                    "Healthier Ingredient 2": "100g",
+                    "Healthier Ingredient 3": "100g"
+                }
+            }
+        },
+        {
+            "name": "Garlic Bread",
+            "healthier_alternative": "Whole Wheat Garlic Toast",
+            "calories": 400,
+            "protein": 8,
+            "carbs": 50,
+            "fats": 18,
+            "ingredients": {
+                "original": {
+                    "Ingredient 1": "100g",
+                    "Ingredient 2": "100g",
+                    "Ingredient 3": "100g"
+                },
+                "healthier": {
+                    "Healthier Ingredient 1": "100g",
+                    "Healthier Ingredient 2": "100g",
+                    "Healthier Ingredient 3": "100g"
+                }
+            }
+        },
+        {
+            "name": "Butter Popcorn",
+            "healthier_alternative": "Air-Popped Popcorn with Olive Oil",
+            "calories": 350,
+            "protein": 5,
+            "carbs": 40,
+            "fats": 15,
+            "ingredients": {
+                "original": {
+                    "Ingredient 1": "100g",
+                    "Ingredient 2": "100g",
+                    "Ingredient 3": "100g"
+                },
+                "healthier": {
+                    "Healthier Ingredient 1": "100g",
+                    "Healthier Ingredient 2": "100g",
+                    "Healthier Ingredient 3": "100g"
+                }
+            }
+        },
+        {
+            "name": "Buffalo Wings",
+            "healthier_alternative": "Baked Spicy Chicken Wings",
+            "calories": 700,
+            "protein": 40,
+            "carbs": 30,
+            "fats": 45,
+            "ingredients": {
+                "original": {
+                    "Ingredient 1": "100g",
+                    "Ingredient 2": "100g",
+                    "Ingredient 3": "100g"
+                },
+                "healthier": {
+                    "Healthier Ingredient 1": "100g",
+                    "Healthier Ingredient 2": "100g",
+                    "Healthier Ingredient 3": "100g"
+                }
+            }
+        },
+        {
+            "name": "Pasta Carbonara",
+            "healthier_alternative": "Zucchini Noodle Carbonara",
+            "calories": 600,
+            "protein": 25,
+            "carbs": 55,
+            "fats": 35,
+            "ingredients": {
+                "original": {
+                    "Ingredient 1": "100g",
+                    "Ingredient 2": "100g",
+                    "Ingredient 3": "100g"
+                },
+                "healthier": {
+                    "Healthier Ingredient 1": "100g",
+                    "Healthier Ingredient 2": "100g",
+                    "Healthier Ingredient 3": "100g"
+                }
+            }
+        },
+        {
+            "name": "Pancakes with Syrup",
+            "healthier_alternative": "Whole Wheat Banana Pancakes",
+            "calories": 500,
+            "protein": 12,
+            "carbs": 65,
+            "fats": 20,
+            "ingredients": {
+                "original": {
+                    "Ingredient 1": "100g",
+                    "Ingredient 2": "100g",
+                    "Ingredient 3": "100g"
+                },
+                "healthier": {
+                    "Healthier Ingredient 1": "100g",
+                    "Healthier Ingredient 2": "100g",
+                    "Healthier Ingredient 3": "100g"
+                }
+            }
+        },
+        {
+            "name": "Cheese Quesadilla",
+            "healthier_alternative": "Spinach and Feta Quesadilla",
+            "calories": 550,
+            "protein": 20,
+            "carbs": 60,
+            "fats": 25,
+            "ingredients": {
+                "original": {
+                    "Ingredient 1": "100g",
+                    "Ingredient 2": "100g",
+                    "Ingredient 3": "100g"
+                },
+                "healthier": {
+                    "Healthier Ingredient 1": "100g",
+                    "Healthier Ingredient 2": "100g",
+                    "Healthier Ingredient 3": "100g"
+                }
+            }
+        },
+        {
+            "name": "Nachos",
+            "healthier_alternative": "Baked Tortilla Chips with Avocado",
+            "calories": 700,
+            "protein": 18,
+            "carbs": 80,
+            "fats": 35,
+            "ingredients": {
+                "original": {
+                    "Ingredient 1": "100g",
+                    "Ingredient 2": "100g",
+                    "Ingredient 3": "100g"
+                },
+                "healthier": {
+                    "Healthier Ingredient 1": "100g",
+                    "Healthier Ingredient 2": "100g",
+                    "Healthier Ingredient 3": "100g"
+                }
+            }
+        },
+        {
+            "name": "Loaded Fries",
+            "healthier_alternative": "Baked Sweet Potato Fries with Greek Yogurt",
+            "calories": 600,
+            "protein": 10,
+            "carbs": 70,
+            "fats": 30,
+            "ingredients": {
+                "original": {
+                    "Ingredient 1": "100g",
+                    "Ingredient 2": "100g",
+                    "Ingredient 3": "100g"
+                },
+                "healthier": {
+                    "Healthier Ingredient 1": "100g",
+                    "Healthier Ingredient 2": "100g",
+                    "Healthier Ingredient 3": "100g"
+                }
+            }
+        },
+        {
+            "name": "Meat Lovers Pizza",
+            "healthier_alternative": "Grilled Chicken Veggie Pizza",
+            "calories": 900,
+            "protein": 45,
+            "carbs": 85,
+            "fats": 50,
+            "ingredients": {
+                "original": {
+                    "Ingredient 1": "100g",
+                    "Ingredient 2": "100g",
+                    "Ingredient 3": "100g"
+                },
+                "healthier": {
+                    "Healthier Ingredient 1": "100g",
+                    "Healthier Ingredient 2": "100g",
+                    "Healthier Ingredient 3": "100g"
+                }
+            }
+        },
+        {
+            "name": "Chicken Parmesan",
+            "healthier_alternative": "Baked Chicken Parmesan",
+            "calories": 750,
+            "protein": 40,
+            "carbs": 60,
+            "fats": 35,
+            "ingredients": {
+                "original": {
+                    "Ingredient 1": "100g",
+                    "Ingredient 2": "100g",
+                    "Ingredient 3": "100g"
+                },
+                "healthier": {
+                    "Healthier Ingredient 1": "100g",
+                    "Healthier Ingredient 2": "100g",
+                    "Healthier Ingredient 3": "100g"
+                }
+            }
+        },
+        {
+            "name": "Poutine",
+            "healthier_alternative": "Baked Sweet Potato Poutine",
+            "calories": 650,
+            "protein": 20,
+            "carbs": 75,
+            "fats": 30,
+            "ingredients": {
+                "original": {
+                    "Ingredient 1": "100g",
+                    "Ingredient 2": "100g",
+                    "Ingredient 3": "100g"
+                },
+                "healthier": {
+                    "Healthier Ingredient 1": "100g",
+                    "Healthier Ingredient 2": "100g",
+                    "Healthier Ingredient 3": "100g"
+                }
+            }
+        },
+        {
+            "name": "Sloppy Joes",
+            "healthier_alternative": "Lean Turkey Sloppy Joes",
+            "calories": 600,
+            "protein": 35,
+            "carbs": 70,
+            "fats": 25,
+            "ingredients": {
+                "original": {
+                    "Ingredient 1": "100g",
+                    "Ingredient 2": "100g",
+                    "Ingredient 3": "100g"
+                },
+                "healthier": {
+                    "Healthier Ingredient 1": "100g",
+                    "Healthier Ingredient 2": "100g",
+                    "Healthier Ingredient 3": "100g"
+                }
+            }
+        },
+        {
+            "name": "Fried Calamari",
+            "healthier_alternative": "Air-Fried Calamari",
+            "calories": 500,
+            "protein": 30,
+            "carbs": 45,
+            "fats": 22,
+            "ingredients": {
+                "original": {
+                    "Ingredient 1": "100g",
+                    "Ingredient 2": "100g",
+                    "Ingredient 3": "100g"
+                },
+                "healthier": {
+                    "Healthier Ingredient 1": "100g",
+                    "Healthier Ingredient 2": "100g",
+                    "Healthier Ingredient 3": "100g"
+                }
+            }
+        },
+        {
+            "name": "Chocolate Chip Muffins",
+            "healthier_alternative": "Banana Oat Muffins",
+            "calories": 450,
+            "protein": 10,
+            "carbs": 55,
+            "fats": 18,
+            "ingredients": {
+                "original": {
+                    "Ingredient 1": "100g",
+                    "Ingredient 2": "100g",
+                    "Ingredient 3": "100g"
+                },
+                "healthier": {
+                    "Healthier Ingredient 1": "100g",
+                    "Healthier Ingredient 2": "100g",
+                    "Healthier Ingredient 3": "100g"
+                }
+            }
+        },
+        {
+            "name": "Frosted Donuts",
+            "healthier_alternative": "Greek Yogurt Glazed Donuts",
+            "calories": 500,
+            "protein": 8,
+            "carbs": 60,
+            "fats": 22,
+            "ingredients": {
+                "original": {
+                    "Ingredient 1": "100g",
+                    "Ingredient 2": "100g",
+                    "Ingredient 3": "100g"
+                },
+                "healthier": {
+                    "Healthier Ingredient 1": "100g",
+                    "Healthier Ingredient 2": "100g",
+                    "Healthier Ingredient 3": "100g"
+                }
+            }
+        },
+        {
+            "name": "Bacon Cheeseburger",
+            "healthier_alternative": "Grilled Turkey Bacon Burger",
+            "calories": 750,
+            "protein": 40,
+            "carbs": 60,
+            "fats": 40,
+            "ingredients": {
+                "original": {
+                    "Ingredient 1": "100g",
+                    "Ingredient 2": "100g",
+                    "Ingredient 3": "100g"
+                },
+                "healthier": {
+                    "Healthier Ingredient 1": "100g",
+                    "Healthier Ingredient 2": "100g",
+                    "Healthier Ingredient 3": "100g"
+                }
+            }
+        },
+        {
+            "name": "Chocolate Pudding",
+            "healthier_alternative": "Avocado Cocoa Pudding",
+            "calories": 400,
+            "protein": 8,
+            "carbs": 45,
+            "fats": 18,
+            "ingredients": {
+                "original": {
+                    "Ingredient 1": "100g",
+                    "Ingredient 2": "100g",
+                    "Ingredient 3": "100g"
+                },
+                "healthier": {
+                    "Healthier Ingredient 1": "100g",
+                    "Healthier Ingredient 2": "100g",
+                    "Healthier Ingredient 3": "100g"
+                }
+            }
+        },
+        {
+            "name": "Steak and Cheese Sub",
+            "healthier_alternative": "Lean Steak Whole Wheat Sub",
+            "calories": 800,
+            "protein": 50,
+            "carbs": 70,
+            "fats": 35,
+            "ingredients": {
+                "original": {
+                    "Ingredient 1": "100g",
+                    "Ingredient 2": "100g",
+                    "Ingredient 3": "100g"
+                },
+                "healthier": {
+                    "Healthier Ingredient 1": "100g",
+                    "Healthier Ingredient 2": "100g",
+                    "Healthier Ingredient 3": "100g"
+                }
+            }
+        },
+        {
+            "name": "Fried Shrimp",
+            "healthier_alternative": "Air Fried Coconut Shrimp",
+            "calories": 600,
+            "protein": 35,
+            "carbs": 50,
+            "fats": 28,
+            "ingredients": {
+                "original": {
+                    "Ingredient 1": "100g",
+                    "Ingredient 2": "100g",
+                    "Ingredient 3": "100g"
+                },
+                "healthier": {
+                    "Healthier Ingredient 1": "100g",
+                    "Healthier Ingredient 2": "100g",
+                    "Healthier Ingredient 3": "100g"
+                }
+            }
+        },
+        {
+            "name": "Hash Browns",
+            "healthier_alternative": "Baked Hash Browns",
+            "calories": 450,
+            "protein": 8,
+            "carbs": 55,
+            "fats": 20,
+            "ingredients": {
+                "original": {
+                    "Ingredient 1": "100g",
+                    "Ingredient 2": "100g",
+                    "Ingredient 3": "100g"
+                },
+                "healthier": {
+                    "Healthier Ingredient 1": "100g",
+                    "Healthier Ingredient 2": "100g",
+                    "Healthier Ingredient 3": "100g"
+                }
+            }
+        },
+        {
+            "name": "Caramel Popcorn",
+            "healthier_alternative": "Honey Cinnamon Popcorn",
+            "calories": 500,
+            "protein": 5,
+            "carbs": 70,
+            "fats": 15,
+            "ingredients": {
+                "original": {
+                    "Ingredient 1": "100g",
+                    "Ingredient 2": "100g",
+                    "Ingredient 3": "100g"
+                },
+                "healthier": {
+                    "Healthier Ingredient 1": "100g",
+                    "Healthier Ingredient 2": "100g",
+                    "Healthier Ingredient 3": "100g"
+                }
+            }
+        },
+        {
+            "name": "Eggs Benedict",
+            "healthier_alternative": "Whole Wheat English Muffin Benedict",
+            "calories": 600,
+            "protein": 25,
+            "carbs": 50,
+            "fats": 30,
+            "ingredients": {
+                "original": {
+                    "Ingredient 1": "100g",
+                    "Ingredient 2": "100g",
+                    "Ingredient 3": "100g"
+                },
+                "healthier": {
+                    "Healthier Ingredient 1": "100g",
+                    "Healthier Ingredient 2": "100g",
+                    "Healthier Ingredient 3": "100g"
+                }
+            }
+        },
+        {
+            "name": "Deep-Fried Fish",
+            "healthier_alternative": "Grilled Lemon Herb Fish",
+            "calories": 650,
+            "protein": 40,
+            "carbs": 45,
+            "fats": 25,
+            "ingredients": {
+                "original": {
+                    "Ingredient 1": "100g",
+                    "Ingredient 2": "100g",
+                    "Ingredient 3": "100g"
+                },
+                "healthier": {
+                    "Healthier Ingredient 1": "100g",
+                    "Healthier Ingredient 2": "100g",
+                    "Healthier Ingredient 3": "100g"
+                }
+            }
+        }
+    ]
+}
