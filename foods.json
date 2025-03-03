@@ -1,0 +1,69 @@
+{
+    "dishes": [
+      {
+        "name": "Cheeseburger",
+        "healthier_alternative": "Grilled Turkey Burger",
+        "calories": 600,
+        "protein": 30,
+        "carbs": 45,
+        "fats": 35,
+        "ingredients": {
+          "original": ["Beef patty", "White bread bun", "Cheddar cheese", "Mayonnaise", "Lettuce", "Tomato"],
+          "healthier": ["Grilled turkey patty", "Whole wheat bun", "Low-fat cheddar cheese", "Avocado spread", "Lettuce", "Tomato"]
+        }
+      },
+      {
+        "name": "French Fries",
+        "healthier_alternative": "Baked Sweet Potato Fries",
+        "calories": 300,
+        "protein": 3,
+        "carbs": 40,
+        "fats": 15,
+        "ingredients": {
+          "original": ["Russet potatoes", "Vegetable oil", "Salt"],
+          "healthier": ["Sweet potatoes", "Olive oil", "Sea salt"]
+        }
+      },
+      {
+        "name": "Fried Chicken",
+        "healthier_alternative": "Air Fried Chicken",
+        "calories": 450,
+        "protein": 35,
+        "carbs": 20,
+        "fats": 20,
+        "ingredients": {
+          "original": ["Chicken breast", "All-purpose flour", "Vegetable oil", "Salt", "Pepper"],
+          "healthier": ["Air-fried chicken breast", "Almond flour", "Olive oil spray", "Himalayan salt", "Black pepper"]
+        }
+      },
+      {
+        "name": "Pizza",
+        "healthier_alternative": "Cauliflower Crust Pizza",
+        "calories": 700,
+        "protein": 25,
+        "carbs": 75,
+        "fats": 30,
+        "ingredients": {
+          "original": ["White flour crust", "Mozzarella cheese", "Pepperoni", "Tomato sauce"],
+          "healthier": ["Cauliflower crust", "Low-fat mozzarella", "Turkey pepperoni", "No-sugar-added tomato sauce"]
+        }
+      },
+      {
+        "name": "Mac and Cheese",
+        "healthier_alternative": "Protein-Packed Chickpea Mac and Cheese",
+        "calories": 500,
+        "protein": 20,
+        "carbs": 55,
+        "fats": 22,
+        "ingredients": {
+          "original": ["Elbow pasta", "Cheddar cheese", "Butter", "Milk"],
+          "healthier": ["Chickpea pasta", "Low-fat cheddar", "Olive oil", "Almond milk"]
+        }
+      }
+      
+      {
+        
+      }
+    ]
+  }
+  
